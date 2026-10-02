@@ -1,9 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+TIFS:
+  url: https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security
+  color: "#1d5773"
+Systems:
+  url: https://ieeesystemsjournal.org/
+  color: "#1d5773"
+Access:
+  url: https://ieeeaccess.ieee.org/
+  color: "#1d5773"
